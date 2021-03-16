@@ -1,0 +1,18 @@
+.navbar.navbar-expand-sm {
+    padding: 0;
+}
+.navbar.navbar-expand-sm .count {
+    position: absolute;
+    right: 30px;
+    color: #fff;
+}
+ul.navbar-nav {
+    background-color: #528124;
+    width: 100%;
+    padding: 5px;
+    position: relative;
+}
+
+ul a {
+    color: #fff;
+}
